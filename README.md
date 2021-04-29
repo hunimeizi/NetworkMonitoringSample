@@ -51,7 +51,7 @@ dependencies {
   ```
 3.关于混淆
 ```js
-  -keep class com.network.library.** { *; }
+  -keep class com.haolin.network.monitoring.** { *; }
 ```
 #### 内嵌上传 Maven Central
 详细请看教程
